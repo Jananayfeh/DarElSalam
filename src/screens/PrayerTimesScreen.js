@@ -60,6 +60,7 @@ const PrayerTimesScreen = () => {
   );
 
   return (
+    //table 
     <View style={styles.container}>
       <Text style={styles.timeText}>{currentTime.format('h:mm:ss A')}</Text>
       <Text style={styles.dateText}>{currentDate}</Text>
