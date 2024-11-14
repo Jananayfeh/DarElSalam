@@ -20,6 +20,11 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
   },
+  dateText: {
+    fontSize: 18,
+    color: '#ffffff',
+    marginTop: 5,
+  },
 });
 
 export default ContactScreen;
